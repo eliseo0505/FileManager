@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-var directory = "C:/Users/roxpl/Desktop/Mega/MEGAsync/Go/FileManager" // Directorio
+var directory = "../Go/FileManager" // Directorio
 var file = "Index.html"                                               // Archivo que se busca
 
 func main() {
